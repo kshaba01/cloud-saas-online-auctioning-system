@@ -1,6 +1,7 @@
 # cloud-saas-online-auctioning-system
 
-This repo includes the files Ive used to develop a cloud based online auctioning system.
+This repo includes the files I used to develop a cloud based online auctioning system.
+The work was a project to fulfil the requirements to pass the cloud computing module as part of an MSc in Data Science at Birkbeck College University of London
 
 
 The work was coded up in Python and utilises:
